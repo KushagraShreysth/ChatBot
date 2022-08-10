@@ -20,9 +20,6 @@ _________________________________
 
 ## Data Collected 
 
-* Plot My Data
 * Facebook research - The bAbI project
 
-## Inferences 
 
-* TowardsDataScience
